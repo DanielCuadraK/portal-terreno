@@ -1,0 +1,2 @@
+1) Open the Command Menu.
+2) Start typing Coverage and select Show Coverage.

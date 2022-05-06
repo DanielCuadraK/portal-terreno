@@ -1,0 +1,14 @@
+# Use PHP5.4 as default
+AddHandler application/x-httpd-php54 .php
+
+ErrorDocument 403     /cgi-sys/403_def.html
+
+ErrorDocument 404     /cgi-sys/404_def.html
+
+ErrorDocument 500     /cgi-sys/500_def.html
+
+ErrorDocument 502     /cgi-sys/502_def.html
+
+ErrorDocument 503     /cgi-sys/503_def.html
+
+ErrorDocument 504     /cgi-sys/504_def.html
